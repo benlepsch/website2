@@ -1,6 +1,6 @@
 # hi everybody
 
-## this is the git repo for my website at [blep.sbcord.com](blep.sbcord.com)
+this is the git repo for my website at [blep.sbcord.com](blep.sbcord.com)
 
 I plan to add a Morbius-themed Age of War game soon
 

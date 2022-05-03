@@ -1,0 +1,5 @@
+/*
+    will hold main loop
+    calls all the draw functions
+    updates all units on the screen
+*/
